@@ -1,0 +1,10 @@
+.pixel {
+    color: blue;
+    font-size: 3.125rem;/*converter rem para pixel 3.125 multiplicado por 16px*/
+}
+
+
+.rem {
+    font-size: 50px;/*(Equivale a 16px) para converter pixel para rem dividido por 16px */
+    color: chartreuse;/*cor do texto*/
+}
